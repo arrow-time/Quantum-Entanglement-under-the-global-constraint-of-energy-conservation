@@ -8,11 +8,11 @@ We present a simplified case where the energy states of two distant quantum site
 
 Comparison Table of Evolutionary Paths under Local Energy Transfer Rules (as per Chapter 3) using Multiplicative Entropy (S = Πmᵢ)
 
-Item	Initial State： ───────────────T₁───────────── Path A (State T₂) ────────────── Path B (State T₂)
+Item	Initial State： ─────────────T₁─────────── Path A (State T₂) ──────────── Path B (State T₂)
 
-SEQ State： ─────────────────[5, 7, 1, 7, 3] ────────── [5, 6, 2, 6, 4]	────────────────── [6, 6, 2, 6, 3]
+SEQ State： ────────────── [5, 7, 1, 7, 3] ───────── [5, 6, 2, 6, 4]	────────────── [6, 6, 2, 6, 3]
 
-Entropy S：	─────────────────── 735 ─────────────── 1440 ───────────────────── 1296
+Entropy S：	────────────────── 735 ────────────── 1440 ──────────────────── 1296
 
 Entropy Increase ΔS：	  ────────────── --	────────────── 705 ───────────────────── 561
 
